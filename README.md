@@ -312,17 +312,6 @@ mvnw.cmd test
 
 Tests use JUnit 5 and follow best practices with proper setup/teardown.
 
-## 👨‍💻 Team
-
-This project was developed as a team effort for the FreeUni OOP Final Project.
-
-**Team Members:**
-- ნიკა სადღობელაშვილი (Nika Sadgobelashvili)
-- ირაკლი ბერელიძე (Irakli Berelidze)
-- გიორგი სულაქველიძე (Giorgi Sulakvelidze)
-- კონსტანტინე ბახუტაშვილი (Konstantin Bakhtutashvili)
-
-**Team Name:** hmm
 
 ## 📝 License
 
