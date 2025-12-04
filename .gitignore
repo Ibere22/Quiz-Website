@@ -11,6 +11,7 @@ target/
 !.idea/inspectionProfiles/
 *.iws
 *.ipr
+*.iml
 out/
 
 # Eclipse
@@ -131,4 +132,7 @@ logs/
 .env.local
 .env.production
 application-local.properties
+
+# Placeholder files
+**/placeholder
 
